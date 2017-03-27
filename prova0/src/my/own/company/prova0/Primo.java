@@ -36,6 +36,7 @@ public class Primo {
 		
 	}
 
+	// Funzione per Correggere gli spazi 
 	private static String correggiOperazione(String operazioni) {
 		String res = "";
 		for(int i = 0; i < operazioni.length(); i++){
